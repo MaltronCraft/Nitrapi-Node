@@ -1,10 +1,10 @@
-# nitrapi [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Node.js based SDK for the Nitrapi
+# nitrapi expansion
+> Unofficial Node.js based SDK for the Nitrapi
 
 ## Installation
 
 ```sh
-$ npm install --save nitrapi
+$ npm install --save nitrapi-expansion
 ```
 
 ## Usage
@@ -33,10 +33,8 @@ For more information on the capabilities of the Nitrapi, consult [the official d
 
 MIT © [CodingNavi](https://codingnavi.github.io)
 
+## Credit
 
-[npm-image]: https://badge.fury.io/js/nitrapi.svg
-[npm-url]: https://npmjs.org/package/nitrapi
-[travis-image]: https://travis-ci.org/codingnavi/Nitrapi-Node.svg?branch=master
-[travis-url]: https://travis-ci.org/codingnavi/Nitrapi-Node
-[daviddm-image]: https://david-dm.org/codingnavi/Nitrapi-Node.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/codingnavi/Nitrapi-Node
+[CodingNavi](https://codingnavi.github.io)
+
+
